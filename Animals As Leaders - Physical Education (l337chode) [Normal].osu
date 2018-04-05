@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: -1
 Countdown: 1
-SampleSet: Normal
+SampleSet: None
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
@@ -27,7 +27,7 @@ Creator:l337chode
 Version:Normal
 Source:
 Tags:animals as leaders metal djent guitar rythem time drum drums hard
-BeatmapID:1592645
+BeatmapID:1598915
 BeatmapSetID:502873
 
 [Difficulty]
